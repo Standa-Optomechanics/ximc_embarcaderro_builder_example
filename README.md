@@ -8,7 +8,7 @@ Documentation for libximc users.
 
 Clone the repository:
  
-> git clone https://github.com/EPC-MSU/ximc_embarcaderro_builder_example
+> git clone https://github.com/Standa-Optomechanics/ximc_embarcaderro_builder_example
 
 Download an libximc release archive of an actual version and unpack it.
 
